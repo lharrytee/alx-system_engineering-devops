@@ -1,1 +1,1 @@
-change working dir to user home dir
+long format listin of dir content
