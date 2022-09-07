@@ -1,1 +1,1 @@
-long format listin of dir content
+displays current directory content in long format
