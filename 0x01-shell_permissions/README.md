@@ -1,1 +1,1 @@
-permission to directories
+permission 751
