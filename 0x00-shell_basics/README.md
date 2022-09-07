@@ -1,1 +1,1 @@
-list all files 
+print iamafile in dir
