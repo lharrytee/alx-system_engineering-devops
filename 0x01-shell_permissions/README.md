@@ -1,1 +1,1 @@
-execute permission to everybody
+ all permission to only user
