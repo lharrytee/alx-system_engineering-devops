@@ -1,1 +1,1 @@
-delete a file in a directory
+list all files 
