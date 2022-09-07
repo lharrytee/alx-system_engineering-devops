@@ -1,1 +1,1 @@
-mirror permission
+permission to directories
