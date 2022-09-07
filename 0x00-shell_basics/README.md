@@ -1,1 +1,1 @@
-displays current directory content in long format
+Display current directory contents with user id numerically
