@@ -1,1 +1,1 @@
-Display current directory contents with user id numerically
+creates a directory in another directory
